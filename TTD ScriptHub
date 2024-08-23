@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/HiScripts/Scripts/main/TTD.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HiScripts/OpScripts/main/ToiletTD.txt"))()
