@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HiScripts/Hi/main/NewMM2Hub.txt"))()
