@@ -1,1 +1,4 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/HiScripts/Scripts/main/mm2hubnew.txt", true))()
+
+The script may lag because it is loading, 
+wait 5 minutes and the lags will stop
