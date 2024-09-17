@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/HiScripts/ForScripters/main/MyScriptBros.txt", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HiScripts/Scripts/main/MM2-2.txt", true))()
